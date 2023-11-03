@@ -310,7 +310,7 @@ main {
 }
 
 .portofolio-section .projects-wrap .card .card-img{
-    width: 100%;    
+    width: 400px;    
     height: 230px;
     object-fit: cover;
     transform: 30ms ease-in-out;
